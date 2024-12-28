@@ -1,3 +1,5 @@
+Application encore en cours ...
+
 # 📝 Journal Personnel
 
 Une application web moderne et minimaliste pour gérer vos pensées quotidiennes, avec support hors ligne.
